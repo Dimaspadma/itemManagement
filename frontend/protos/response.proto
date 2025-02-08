@@ -1,0 +1,21 @@
+syntax = "proto3";
+package awesomeProject;
+
+import "google/protobuf/timestamp.proto";
+
+option go_package = "awesomeProject/responsepb";
+
+message User {
+  int32 id = 1;
+  string username = 2;
+  google.protobuf.Timestamp created_at = 3;
+}
+
+message Response {
+  Metadata metadata = 1;
+  repeated User data = 2;
+}
+
+message Metadata {
+  int32 user_count = 1;
+}

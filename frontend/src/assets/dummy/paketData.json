@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Coca cola",
+    "status": "active",
+    "photo": "https://images.tokopedia.net/img/cache/700/hDjmkQ/2023/1/4/271e259f-c16c-4cf0-b2fe-4a9146f33169.jpg"
+  },
+  {
+    "name": "Sprite",
+    "status": "pending",
+    "photo": "https://www.theboogaloobali.com/wp-content/uploads/Sprite-alcohol-delivery-bali.png"
+  },
+  {
+    "name": "Fanta",
+    "status": "fail",
+    "photo": "https://yoline.co.id/media/products/ProductStrawberrycan_fanta_250ml.png"
+  }
+]
