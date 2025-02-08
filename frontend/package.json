@@ -9,6 +9,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@protobuf-ts/plugin": "^2.9.4",
     "axios": "^1.7.9",
     "dayjs": "^1.11.13",
     "long": "^5.2.4",
